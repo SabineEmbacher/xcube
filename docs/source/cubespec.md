@@ -30,7 +30,7 @@ xcube datasets
 
 * SHALL be time series of gridded, geo-spatial, geo-physical variables.  
 * SHALL use a common, equidistant, global or regional geo-spatial grid.
-* SHALL shall be easy to read, write, process, generate.
+* SHALL be easy to read, write, process, generate.
 * SHALL conform to the requirements of analysis ready data (ARD).
 * SHALL be compatible with existing tools and APIs.
 * SHALL conform to standards or common practices and follow a common 
